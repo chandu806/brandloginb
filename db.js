@@ -13,3 +13,9 @@ module.exports = () => {
        console.log("could not connect to database!")
     }
 };
+
+// const connect = () => {
+//     return mongoose.connect("mongodb+srv://chandu:chandu806@cluster0.dtbqqoy.mongodb.net/?retryWrites=true&w=majority")
+
+// }
+// module.exports = connect;
